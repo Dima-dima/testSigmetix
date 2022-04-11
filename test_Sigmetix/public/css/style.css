@@ -1,0 +1,6 @@
+.required:after{
+    content: "*";
+    color: #ec0000;
+    margin-left: 2px;
+    font-size: 13px;
+}
